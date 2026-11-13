@@ -29,6 +29,14 @@
 
 <br>
 
+<h3>03 · Proyectos</h3>
+
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| **Caedomi** | Plataforma de pedidos y domicilios que fundé y desarrollo: catálogo, checkout y paneles de administración y vendedores. **Código privado de la empresa.** | Next.js · TypeScript |
+
+<br>
+
 <p align="center">
   <a href="mailto:manumartinez@caedomi.com"><img src="https://img.shields.io/badge/manumartinez%40caedomi.com-0B0F14?style=flat-square&labelColor=0B0F14&logo=maildotru&logoColor=4C8FA6" alt="Escríbeme"></a>
 </p>
