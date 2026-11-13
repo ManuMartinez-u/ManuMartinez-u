@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/banner-dark.svg?v=2">
-  <img src="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/banner-light.svg?v=2" alt="Manuel Martínez — desarrollador full-stack en Caedomi" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/banner-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/banner-light.svg?v=3" alt="Manuel Martínez — desarrollador full-stack en Caedomi" width="100%">
 </picture>
 
 <br>
@@ -31,5 +31,5 @@
 <br>
 
 <p align="center">
-  <a href="mailto:manumartinez@caedomi.com"><img src="https://img.shields.io/badge/manumartinez%40caedomi.com-0B0F14?style=flat-square&labelColor=0B0F14&logo=maildotru&logoColor=A3E635" alt="Escríbeme"></a>
+  <a href="mailto:manumartinez@caedomi.com"><img src="https://img.shields.io/badge/manumartinez%40caedomi.com-0B0F14?style=flat-square&labelColor=0B0F14&logo=maildotru&logoColor=62AEBF" alt="Escríbeme"></a>
 </p>
