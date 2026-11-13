@@ -31,5 +31,5 @@
 <br>
 
 <p align="center">
-  <a href="mailto:caedomi@hotmail.com"><img src="https://img.shields.io/badge/caedomi%40hotmail.com-0B0F14?style=flat-square&labelColor=0B0F14&logo=maildotru&logoColor=A3E635" alt="Escríbeme"></a>
+  <a href="mailto:manumartinez@caedomi.com"><img src="https://img.shields.io/badge/manumartinez%40caedomi.com-0B0F14?style=flat-square&labelColor=0B0F14&logo=maildotru&logoColor=A3E635" alt="Escríbeme"></a>
 </p>
