@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Manuel Martínez, desarrollador full-stack en Caedomi">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#0B0F14" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="#FBFAF7"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <text x="1030" y="206" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="210" font-weight="800" letter-spacing="-10" text-anchor="middle" fill="none" stroke="#4D7C0F" stroke-opacity="0.22" stroke-width="1.2">MM</text>
+
+  <rect x="80" y="96" width="3" height="136" fill="#4D7C0F"/>
+
+  <text x="108" y="108" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4.5" fill="#4D7C0F">DESARROLLADOR FULL-STACK</text>
+
+  <text x="106" y="166" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.8" fill="#0B0F14">Manuel Martínez</text>
+
+  <text x="108" y="200" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#334155">Ingeniero de sistemas · Caedomi</text>
+
+  <text x="108" y="234" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#64748B">Cereté, Córdoba, Colombia</text>
+</svg>
