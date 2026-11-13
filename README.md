@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/banner-light.svg" alt="Manuel Martínez — desarrollador full-stack en Caedomi" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/banner-dark.svg?v=2">
+  <img src="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/banner-light.svg?v=2" alt="Manuel Martínez — desarrollador full-stack en Caedomi" width="100%">
 </picture>
 
 <br>
