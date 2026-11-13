@@ -14,7 +14,7 @@
     <td width="60%" valign="top">
       <h3>01 · Perfil</h3>
       <p>Desarrollador full-stack e ingeniero de sistemas, en Cereté, Córdoba. Hoy trabajo en <strong>Caedomi</strong>, construyendo una plataforma de comercio electrónico: catálogo, checkout y paneles de administración y vendedores.</p>
-      <p>Antes: <strong>TalentPay</strong>, plataforma de empleo remoto con pagos por tokens, y <strong>ProCreditos</strong>, app móvil de gestión de créditos.</p>
+      <p>Antes: <strong>ProCreditos</strong>, app móvil de gestión de créditos.</p>
     </td>
     <td width="40%" valign="top">
       <h3>02 · Stack</h3>
