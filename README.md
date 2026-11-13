@@ -29,15 +29,6 @@
 
 <br>
 
-<h3>03 · Proyectos</h3>
-
-| Proyecto | Qué es | Stack |
-| --- | --- | --- |
-| **[web](https://github.com/ManuMartinez-u/web)** | Tienda en línea: catálogo, carrito, checkout y paneles de administración y vendedores. | Next.js · TypeScript |
-| **[ProCreditos](https://github.com/ManuMartinez-u/ProCreditos)** | App móvil de créditos: onboarding, registro e inicio de sesión. | React Native · Expo |
-
-<br>
-
 <p align="center">
   <a href="mailto:manumartinez@caedomi.com"><img src="https://img.shields.io/badge/manumartinez%40caedomi.com-0B0F14?style=flat-square&labelColor=0B0F14&logo=maildotru&logoColor=4C8FA6" alt="Escríbeme"></a>
 </p>
