@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/caedomi-oscuro.svg">
-  <img src="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/caedomi-claro.svg" alt="Manuel Martínez — fundador de Caedomi" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/caedomi-oscuro.svg?v=2">
+  <img src="https://raw.githubusercontent.com/ManuMartinez-u/ManuMartinez-u/main/assets/caedomi-claro.svg?v=2" alt="Manuel Martínez — fundador de Caedomi" width="100%">
 </picture>
 
 <br>
@@ -14,7 +14,6 @@
     <td width="60%" valign="top">
       <h3>01 · Perfil</h3>
       <p>Desarrollador full-stack e ingeniero de sistemas, en Cereté, Córdoba. Fundé <strong>Caedomi</strong>, una plataforma de pedidos y domicilios, y construyo su producto: catálogo, checkout y paneles de administración y vendedores.</p>
-      <p>Antes: <strong>ProCreditos</strong>, app móvil de gestión de créditos.</p>
     </td>
     <td width="40%" valign="top">
       <h3>02 · Stack</h3>
@@ -27,6 +26,15 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<h3>03 · Proyectos</h3>
+
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| **[web](https://github.com/ManuMartinez-u/web)** | Tienda en línea: catálogo, carrito, checkout y paneles de administración y vendedores. | Next.js · TypeScript |
+| **[ProCreditos](https://github.com/ManuMartinez-u/ProCreditos)** | App móvil de créditos: onboarding, registro e inicio de sesión. | React Native · Expo |
 
 <br>
 
